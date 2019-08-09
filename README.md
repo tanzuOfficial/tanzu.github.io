@@ -1,3 +1,4 @@
+# Blog
 
 > More **coming soon**.
 
