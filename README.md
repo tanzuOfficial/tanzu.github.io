@@ -1,4 +1,3 @@
-# Welcome
 
 > More **coming soon**.
 
